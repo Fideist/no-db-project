@@ -1,0 +1,38 @@
+          	<nav role='navigation'>
+          		<ul>
+          			<li>
+                <a href='http://starwars.wikia.com/wiki/The_Essential_Guide_to_Characters'>
+                  <div>
+                    Character
+                    <span>Select a character</span>
+                  </div>
+                </a>
+                <div>
+                  <ul>
+                    <li><a href='#'>Luke Skywalker</a></li>
+                    <li><a href='#'>Character B</a></li>
+                    <li><a href='#'>Character C</a></li>
+                    <li><a href='#'>Character D</a></li>
+                    <li><a href='#'>...</a></li>
+                  </ul>
+                </div>
+          			</li>
+          			<li>
+          				<a href='http://starwars.wikia.com/wiki/Category:Saga_films'>
+          					<div>
+          						Film
+          						<span>Select a film</span>
+          					</div>
+          				</a>
+                  <div>
+                    <ul>
+                      <li><a href='#'>Star Wars IV: A New Hope</a></li>
+                      <li><a href='#'>Film B</a></li>
+                      <li><a href='#'>Film C</a></li>
+                      <li><a href='#'>Film D</a></li>
+                      <li><a href='#'>...</a></li>
+                    </ul>
+                  </div>
+          			</li>
+          		</ul>
+          	</nav>
